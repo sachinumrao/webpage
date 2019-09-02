@@ -1,6 +1,10 @@
 site_name: NBML
+site_author: Sachin Umrao
+site_description: Machine Learning, Deep Learning, Reinforcement Learning, NLP, Natural Language Processing
+
 nav:
     - Home: index.md
-    - About: about.md
     - Projects : projects.md
+    - About: about.md
+
 theme: readthedocs
