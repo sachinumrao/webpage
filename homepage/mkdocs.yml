@@ -1,0 +1,6 @@
+site_name: NBML
+nav:
+    - Home: index.md
+    - About: about.md
+    - Projects : projects.md
+theme: readthedocs
