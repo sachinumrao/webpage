@@ -1,0 +1,63 @@
+site_name: Nuts and Bolts of Machine Learning
+site_author: Sachin Umrao
+site_description: Machine Learning, Deep Learning, Reinforcement Learning, NLP, Natural Language Processing
+
+nav:
+  - Home: index.md
+  - Blog:
+      - blog/index.md
+  - Library:
+      - library.md
+  - About: about.md
+  - Tags: tags.md
+
+theme:
+  name: material
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+  features:
+    - navigation.indexes
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.instant.preview
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navihation.top
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.code.copy
+
+plugins:
+  - search
+  - blog
+  - tags:
+      tags_file: tags.md
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+  name: Twitter
+  link: https://x.com/umrao_sachin
