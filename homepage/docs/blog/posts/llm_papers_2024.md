@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: Top LLM Papers of 2024
 description: Survey of cool llm papers that came out in 2024
 date:
@@ -11,3 +11,4 @@ tags:
 ---
 
 # Top LLM Papers of 2024
+<!-- more -->

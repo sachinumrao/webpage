@@ -10,6 +10,7 @@ tags:
 ---
 
 # Keyword Extraction
+<!-- more -->
 
 ![keyword extraction](./../../assets/keyword_extraction.jpeg)
 *Image Credit: www.adaringadventure.com*

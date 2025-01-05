@@ -11,6 +11,7 @@ tags:
 ---
 
 # Setting Up Ubuntu/Debian System for Deep Learning
+<!-- more -->
 
 ![ubuntu](./../../assets/ubuntu-logo.png)
 *Image Credit: https://mytechshout.com*

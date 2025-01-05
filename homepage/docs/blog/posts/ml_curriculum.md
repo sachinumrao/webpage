@@ -13,7 +13,8 @@ tags:
     - Maths
 ---
 
-# Free Machine Learning Courses
+# Free Machine Learning and AI Courses
+<!-- more -->
 
 ## Machine Learning / Deep Learning
 - [CS229 Machine Learning](https://youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)

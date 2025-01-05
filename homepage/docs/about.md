@@ -2,9 +2,8 @@
 
 # Sachin Umrao
 
-After finishing my masters in mechanical engineering, 
-I am currently working as Senior Data Scientist at Fidelity Investments, Bengaluru.
-In my leisure time, I like to read about machine learning and watch tv series.
+After completing my master's degree in Mechanical Engineering, 
+I am currently working as a Senior Data Scientist at Fidelity Investments in Bengaluru. In my free time, I enjoy reading books, watching TV series, and exploring emerging technologies in the fields of Large Language Models (LLMs) and Reinforcement Learning.
 <br>
 
 You can find me @<br>

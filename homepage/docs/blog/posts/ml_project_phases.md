@@ -12,6 +12,7 @@ tags:
 ---
 
 # Phases of a Machine Learning Project
+<!-- more -->
 
 | Phase                         | Useful Tools/Libraries|
 | ----------------------------- | --------------------- |

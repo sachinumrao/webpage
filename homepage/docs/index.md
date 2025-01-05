@@ -3,4 +3,4 @@
 ![Homepage](./assets/blog_homepage.jpg)
 Model: ChatGPT
 <br>
-Prompt: Create an image of Aartificial Intelligence in space
+Prompt: Create an image of Artificial Intelligence in space
